@@ -1,0 +1,154 @@
+﻿<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>United Riccione Esports</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f4faff;
+      color: #222;
+    }
+    header {
+      background-color: #87cefa;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      background-color: #e0f2ff;
+      padding: 0.5rem;
+      flex-wrap: wrap;
+    }
+    nav a {
+      margin: 0 1rem;
+      text-decoration: none;
+      color: #0077cc;
+      font-weight: bold;
+    }
+    .section {
+      padding: 2rem;
+    }
+    .section h2 {
+      color: #0077cc;
+      border-bottom: 2px solid #87cefa;
+      padding-bottom: 0.5rem;
+    }
+    .player-card {
+      border: 1px solid #87cefa;
+      padding: 1rem;
+      border-radius: 8px;
+      background-color: white;
+      display: inline-block;
+      margin: 1rem;
+      width: 200px;
+      text-align: center;
+    }
+    footer {
+      text-align: center;
+      background-color: #e0f2ff;
+      padding: 1rem;
+      font-size: 0.9rem;
+    }
+    img.logo {
+      max-height: 100px;
+    }
+    .social-links {
+      margin-top: 1rem;
+    }
+    .social-links a {
+      margin: 0 10px;
+      text-decoration: none;
+      color: #0077cc;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="United Riccione Esports Logo" class="logo">
+    <h1>United Riccione Esports</h1>
+    <p>"Più di un Club"</p>
+    <div class="social-links">
+      <a href="https://discord.gg/tuolink" target="_blank">Discord</a>
+      <a href="https://instagram.com/tuoprofilo" target="_blank">Instagram</a>
+      <a href="https://twitter.com/tuoprofilo" target="_blank">Twitter</a>
+      <a href="https://facebook.com/tuopagina" target="_blank">Facebook</a>
+    </div>
+  </header>
+  <nav>
+    <a href="#storia">Storia</a>
+    <a href="#organigramma">Organigramma</a>
+    <a href="#rosa">Rosa</a>
+    <a href="#campionati">Campionati</a>
+    <a href="#news">News</a>
+    <a href="#media">Foto & Video</a>
+    <a href="#contatti">Contatti</a>
+  </nav>
+
+  <div class="section" id="storia">
+    <h2>Storia del Club</h2>
+    <p>[Inserire qui la storia lunga che mi hai fornito - sarà spezzata in più paragrafi per leggibilità]</p>
+  </div>
+
+  <div class="section" id="organigramma">
+    <h2>Organigramma</h2>
+    <ul>
+      <li><strong>Presidente:</strong> Renda2921</li>
+      <li><strong>Vicepresidente:</strong> Reggino87</li>
+      <li><strong>Allenatore:</strong> Grifoneidor</li>
+      <li><strong>Social Media Manager:</strong> WalterFoglia</li>
+      <li><strong>Grafica & Media:</strong> Grifoneidor</li>
+    </ul>
+  </div>
+
+  <div class="section" id="rosa">
+    <h2>Rosa della Squadra</h2>
+    <div class="player-card">
+      <img src="placeholder.jpg" alt="Player" style="width:100%; border-radius:8px;">
+      <p><strong>Nickname:</strong> CescSlimShady</p>
+      <p><strong>Ruolo:</strong> Centrocampista</p>
+    </div>
+    <!-- Altri player qui -->
+  </div>
+
+  <div class="section" id="campionati">
+    <h2>Campionati</h2>
+    <ul>
+      <li>VFL ITALIA</li>
+      <li>LND eSerie D</li>
+      <li>NENSPORTS</li>
+      <li>ELUDO</li>
+      <li>COPPA ITALIA LND</li>
+    </ul>
+    <p>All'interno di ogni sezione verrà caricato il calendario e risultati con marcatori.</p>
+  </div>
+
+  <div class="section" id="news">
+    <h2>News</h2>
+    <p>Nessuna news al momento.</p>
+  </div>
+
+  <div class="section" id="media">
+    <h2>Foto & Video</h2>
+    <p>Gallery in arrivo!</p>
+  </div>
+
+  <div class="section" id="contatti">
+    <h2>Contatti / Registrazione</h2>
+    <p>Scrivici a: <a href="mailto:fabriziorenda2212@gmail.com">fabriziorenda2212@gmail.com</a></p>
+    <p>Oppure compila il modulo (in arrivo).</p>
+  </div>
+
+  <footer>
+    <p>United Riccione Esports &copy; 2025 - Tutti i diritti riservati</p>
+  </footer>
+</body>
+</html>
+
+
+(DATA,LUOGO)                                                                               FIRMA
